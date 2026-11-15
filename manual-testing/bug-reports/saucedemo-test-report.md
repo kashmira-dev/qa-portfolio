@@ -41,4 +41,4 @@
 ---
 
 ## 5. Jira Defect Tracking Board
-![SauceDemo Jira Board](../jira-screenshots/saucedemo-jira-board.png)
+![SauceDemo Jira Board](../jira-screenshots/saucedemo-test-report.md.png)
