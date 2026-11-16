@@ -16,8 +16,9 @@ Automated CRUD API test suite built using **Postman** against the JSONPlaceholde
 - Executed end-to-end automated regression run via **Postman Collection Runner** (**7/7 Assertions Passed**, Avg. Response Time: `488 ms`).
 
 ## 📊 Collection Runner Execution Proof
-![Postman Collection Runner Results](./postman-runner-pass.png)
+![Postman Collection Runner Results](./screenshots/postman-runner-pass.png)
 
-## 📂 Files Included
-- `QA-API-Testing-Portfolio.postman_collection.json` — Importable Postman Collection v2.1 with embedded post-response test scripts.
-- `postman-runner-pass.png` — Automated Collection Runner execution summary.
+## 📂 Folder Structure
+- `postman-collection/QA-API-Testing-Portfolio.postman_collection.json` — Importable Postman Collection v2.1 with embedded post-response test scripts.
+- `screenshots/postman-runner-pass.png` — Automated Collection Runner execution summary.
+- `../notes/api-testing-notes.md` — REST API testing concepts, HTTP status codes, and Postman assertion cheat sheet.
